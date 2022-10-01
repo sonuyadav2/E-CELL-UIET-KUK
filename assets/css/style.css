@@ -1,7 +1,6 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  color: #C9DFEC;
   background-color: rgb(255, 255, 255);
   
 }
@@ -19,6 +18,8 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
+  color:#000;
+
 }
 
 /*--------------------------------------------------------------
@@ -664,8 +665,8 @@ text-align: center;
 .head{
   font-weight: 700;
   font-size: 56px;
-  color: white;
-  text-shadow: 2px 1px 1px red;
+  color: black;
+  text-shadow: 2px 1px 1px beige;
   text-align: center;
   margin:0 0 2rem 0;
    box-shadow:1px solid #747474 !important;
@@ -798,29 +799,29 @@ align-items: center;
  .about .container h1  {
   font-weight: 700;
   font-size: 56px;
-  color: #fff;
-  text-shadow: 2px 1px 1px red;
+  color: #000;
+  text-shadow: 2px 1px 1px beige;
   text-align: center;
 }
 .about .content h3  {
   font-weight: 600;
   font-size: 34px;
-  color: #fff;
-  text-shadow: 2px 1px 1px red;
+  color: black;
+  text-shadow: 2px 1px 1px beige;
 }
 
 .about .content p {
   margin-bottom: 0;  
   font-weight: 400;
   font-size:20px;
-  color: white;
+  color: black;
 
   text-align: justify;
  /* text-shadow: 1px 1px rgb(76, 75, 75);*/
 }
 .about .content b {
   margin-bottom: 0;
-  color:white;
+  color:black;
   
   font-size:23px;
 }
@@ -829,7 +830,7 @@ align-items: center;
   font-weight: 400;
   font-size:20px;
   /*color: #C9DFEC;*/
-  color: white;
+  color:black;
   text-shadow: -1px 1px #000;
  
 }
@@ -1078,8 +1079,8 @@ align-items: center;
 .services .section-title h2{
   font-weight: 700;
   font-size: 56px;
-  color:white;
-  text-shadow: 2px 1px 1px red;
+  color:black;
+  text-shadow: 2px 1px 1px beige;
   text-align: center;
   padding-bottom: 15px;
 }
@@ -1097,8 +1098,8 @@ align-items: center;
 .about .container h1  {
   font-weight: 700;
   font-size: 56px;
-  color: white;
-  text-shadow: 2px 1px 1px red;
+  color: black;
+  text-shadow: 2px 1px 1px beige;
   text-align: center;
 }
 .services .icon {
@@ -1122,7 +1123,7 @@ align-items: center;
 }
 
 .services .icon:hover{
-  box-shadow: 0px 0 60px rgb(231, 7, 7);
+  box-shadow: 0px 0 60px beige;
 }
 
 .services .title {
@@ -1641,8 +1642,8 @@ video{
   padding: 60px 0;
 } */
 .team .section-title h1{
-  color: azure;
-  text-shadow: 2px 1px 1px red;
+  color: rgb(1, 1, 1);
+  text-shadow: 2px 1px 1px beige;
   padding-bottom: 15px;
   
 }
@@ -1650,7 +1651,7 @@ video{
   padding-top: 0px;
 }
 .team .section-title h3{
-  color:white;
+  color:black;
   padding-bottom: 15px;
 }
 .teachers{
@@ -1994,9 +1995,9 @@ color: white;
 
 }
 .port h1 ,h3{
-    text-shadow: 2px 1px 1px red ;
+    
     font-size:56px; 
-    color: white;
+    color: black;
     padding-bottom:15px;
   }
 .port-main{
@@ -2214,7 +2215,7 @@ grid-gap: 20px;
 .section-titles h1{
   font-weight: 700;
   font-size: 56px;
-  color: white;
+  color: black;
   text-align: center;
   padding-bottom: 15px;
   
@@ -2223,7 +2224,7 @@ grid-gap: 20px;
   font-weight: 700;
   font-size: 25px;
   
-  color:white;
+  color:black;
   text-align: center;
 }
 label{
